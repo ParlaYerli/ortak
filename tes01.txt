@@ -1,2 +1,4 @@
-satýr1
-satýr2
+satï¿½r1
+satï¿½r2
+not1
+not2
