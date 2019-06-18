@@ -1,7 +1,8 @@
-satır1
-satır2
-satır3
-satır4
-satır5
-satır6
-satır7
+satÃ½r1
+satÃ½r2
+satÃ½r3
+satÃ½r4
+satÃ½r5
+satÃ½r6
+satÃ½r7
+satÄ±r8
